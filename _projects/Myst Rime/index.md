@@ -12,7 +12,7 @@ main-image: /rimeimage.png
 
 ## Aurora Device
 
-{% include image-gallery.html images="auroradevice.jpg" height="400" %}
+{% include image-gallery.html images="typhirz.github.io/_projects/MystRime/auroradevice.jpg" height="400" %}
 
 ## Imager Device
 
