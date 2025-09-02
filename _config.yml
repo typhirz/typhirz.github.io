@@ -59,12 +59,10 @@ skills:
     - Python
     - C++
     - R
-  - category: QA tools
+  - category: QA and Design tools
     tools:
     - Mantis
     - Jira
-  - category: Design tools
-    tools:
     - Miro
   - category: Miscellaneous
     tools:
