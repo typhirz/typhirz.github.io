@@ -12,10 +12,16 @@ main-image: /rimeimage.png
 
 ## Aurora Device
 
-{% include image-gallery.html images="https://typhirz.github.io/_projects/myst-rime/auroradevice.jpg" %}
+{% include image-gallery.html images="https://typhirz.github.io/_projects/myst-rime/auroradevice.jpg" height="2000" %}
+
+[For the full-size image which may be more readable, click here.](https://typhirz.github.io/_projects/myst-rime/auroradevice.jpg)
 
 ## Imager Device
 
-{% include image-gallery.html images="https://typhirz.github.io/_projects/myst-rime/imagerdeviceearly.png" %}
+{% include image-gallery.html images="https://typhirz.github.io/_projects/myst-rime/imagerdeviceearly.png" height="600" %}
 
-{% include image-gallery.html images="https://typhirz.github.io/_projects/myst-rime/imagerdevice.jpg" %}
+[For the full-size image which may be more readable, click here.](https://typhirz.github.io/_projects/myst-rime/imagerdeviceearly.png)
+
+{% include image-gallery.html images="https://typhirz.github.io/_projects/myst-rime/imagerdevice.jpg" height="2000" %}
+
+[For the full-size image which may be more readable, click here.](https://typhirz.github.io/_projects/myst-rime/imagerdevice.jpg)
