@@ -5,8 +5,8 @@ description:  In 2025, we updated our Unreal Engine version of Myst with the lon
   I lead the gameplay design on this update, translating the old puzzles to new, more modern designs that worked
   for all our target platforms, including PC2D, console with controller, and VR. 
 skills: 
-- skill 1
-- skill 2
+- UE5
+- Miro
 main-image: /rimeimage.png 
 ---
 
