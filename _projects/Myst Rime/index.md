@@ -16,6 +16,6 @@ main-image: /project.webp
 
 ## Imager Device
 
-{% include image-gallery.html images="imagerdeviceearly.jpg" height="400" %}
+{% include image-gallery.html images="imagerdeviceearly.png" height="400" %}
 
 {% include image-gallery.html images="imagerdevice.jpg" height="400" %}
