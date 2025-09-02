@@ -10,13 +10,13 @@ skills:
 main-image: /rimeimage.png 
 ---
 
-## Aurora Device
+## Aurora Device Design Documenation
 
 {% include image-gallery.html images="https://typhirz.github.io/_projects/myst-rime/auroradevice.jpg" height="2000" %}
 
 [For the full-size image which may be more readable, click here.](https://typhirz.github.io/_projects/myst-rime/auroradevice.jpg)
 
-## Imager Device
+## Imager Device Design Documentation
 
 {% include image-gallery.html images="https://typhirz.github.io/_projects/myst-rime/imagerdeviceearly.png" height="600" %}
 
