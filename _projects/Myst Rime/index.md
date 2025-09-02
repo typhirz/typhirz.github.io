@@ -7,7 +7,7 @@ description:  In 2025, we updated our Unreal Engine version of Myst with the lon
 skills: 
 - skill 1
 - skill 2
-main-image: /project.webp 
+main-image: /rimeimage.wpng 
 ---
 
 ## Aurora Device
